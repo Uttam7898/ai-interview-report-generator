@@ -1,2 +1,1 @@
-# ai-interview-report-generator
-A full-stack AI-powered web app that analyzes interview transcripts and generates detailed performance reports. Built with React, Node.js, Express, MongoDB, and Groq LLaMA 3.3.
+A full-stack AI Job Preparation app — upload resumes, analyze job descriptions, generate ATS-optimized PDFs and AI-powered interview reports. Built with React, Node.js, Express, MongoDB, and Groq LLaMA 3.3.
